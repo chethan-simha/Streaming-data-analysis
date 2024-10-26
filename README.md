@@ -1,5 +1,11 @@
 # Streaming Data Analysis
 
+## Dashboard (Snapshots)
+![Screenshot (1)](https://github.com/user-attachments/assets/33f44bd4-a8ab-4324-902a-a8e4134cc577)  
+![Screenshot (4)](https://github.com/user-attachments/assets/095f0de8-7939-4435-ba22-62a9b496c724)   
+![Screenshot (2)](https://github.com/user-attachments/assets/3aa808e1-ca68-4a08-9d5c-c6b5cc9c9033)  
+![Screenshot (5)](https://github.com/user-attachments/assets/893041fe-2b3b-4900-af24-c40ac752ca47)
+
 ## Introduction
 
 This dashboard provides insights into streaming service viewership and content performance across platforms like Prime Video, Netflix, and Disney+. It helps you understand viewer preferences, content trends, and market dynamics in the streaming industry.
@@ -53,12 +59,7 @@ Integrate real-time data for dynamic insights and recommendations.
 Develop user segmentation for more granular analysis.  
 Explore advanced analytics techniques like machine learning for deeper insights.  
 Include social media data to understand audience sentiment.
-## Snapshots
-### Dashboard
-![Screenshot (1)](https://github.com/user-attachments/assets/33f44bd4-a8ab-4324-902a-a8e4134cc577)  
-![Screenshot (4)](https://github.com/user-attachments/assets/095f0de8-7939-4435-ba22-62a9b496c724)   
-![Screenshot (2)](https://github.com/user-attachments/assets/3aa808e1-ca68-4a08-9d5c-c6b5cc9c9033)  
-![Screenshot (5)](https://github.com/user-attachments/assets/893041fe-2b3b-4900-af24-c40ac752ca47)
+
 ## Conclusion
 
 Streaming data analysis is a powerful tool for understanding viewer behavior and optimizing streaming service strategies. This dashboard provides a starting point for leveraging data to gain a competitive advantage in the ever-evolving streaming landscape.

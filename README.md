@@ -14,6 +14,9 @@ This dashboard provides insights into streaming service viewership and content p
 
 In the highly competitive streaming industry, how can we leverage data analysis to optimize content acquisition, production, and distribution strategies for viewer engagement and platform growth?
 
+## Data Sources:
+kaggle
+(https://www.kaggle.com/)
 ## Key Questions Addressed
 
 1)What are the most popular genres and content types among viewers?   
